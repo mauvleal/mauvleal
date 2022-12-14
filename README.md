@@ -1,10 +1,12 @@
 
 
+
 ### Olá! Eu sou o Mauricio Leal 🖐️<br/>
 Sou formando em Administração e estou em transição de carreira, atualmente estudando Desenvolbimento Web na Trybe <img width="20" alt="trybe_logo" src="https://media.licdn.com/dms/image/D4D0BAQHo1GZmhutd4A/company-logo_200_200/0/1664308283764?e=1678924800&v=beta&t=AaNDgo-tOmb6qWbqe6Fbf4Kf9POgjQUbVyU6td_XRfg"/><br/><br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauricio.leal)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciovieiraleal)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5527997352106)
+
 
 ![Mauricio GitHub stats](https://github-readme-stats.vercel.app/api?username=mauvleal&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauvleal&layout=compact)](https://github.com/mauvleal/github-readme-stats)
